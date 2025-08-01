@@ -1,0 +1,23 @@
+{
+  "name": "obshq_embed_test",
+  "version": "1.0.0",
+  "description": "See: https://observablehq.com/@observablehq/advanced-embeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnyrop/obshq_embed_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnyrop/obshq_embed_test/issues"
+  },
+  "homepage": "https://github.com/mnyrop/obshq_embed_test#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
